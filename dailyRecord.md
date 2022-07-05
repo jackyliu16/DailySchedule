@@ -19,9 +19,9 @@
 > 
 > 圣经看到2.4
 > 
-> 圣经配套的联系完成到{4.1, }
+> 圣经配套的联系完成到{4.1, 4.2}
 > 
-> rustlings finish {  }
+> rustlings finish { None }
 
 ##### the question in study
 
