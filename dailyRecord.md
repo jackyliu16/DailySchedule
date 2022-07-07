@@ -56,5 +56,17 @@ fn main() {
    的区别在于一个是[0, 5) 另外一个是[0, 5]
 5. Unicode 的编码都是4B的，因此字符类型也是4B的
 
+### day 2 - 2022/7/6
 
+> 今天在深度体会到之前我对于很多事情都忘记的情况之后，决定重新开始学习（从头开始学习）
+
+> 在飞书文档中对于我的学习进行记录https://e3vqhv9jh5.feishu.cn/docx/doxcnCSj3n6UnHJHThzhv07Dbbh
+
+> 当天同时发现了rustlings 之前我所完成的测试机制不太正确，重新上传了这个测试中我已经做完的部分
+
+> 完成了圣经配套练习中一直到borrowing的部分
+
+### day 3 - 2022/7/7
+
+> 当天完成了rustlings 中 if and move_semterment 部分的内容
 
