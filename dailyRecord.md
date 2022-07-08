@@ -68,5 +68,7 @@ fn main() {
 
 ### day 3 - 2022/7/7
 
-> 当天完成了rustlings 中 if and move_semterment 部分的内容
+> 今天通过测试驱动性学习方案，完成了rustlings一直到error的练习，目前已经push了较早版本，等待较晚时间再反过来复习圣经的内容
+
+
 
