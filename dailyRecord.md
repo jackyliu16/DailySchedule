@@ -90,3 +90,5 @@ fn main() {
 > 准备接下来通过跟着rust by example 的课程对于rust语言的使用有进一步的理解
 > 
 > 阅读完成计算机组成原理与设计【学习版链接：https://www.cnblogs.com/studyingzhang/p/14661692.html】第一章，以及第二章到2.5章为止的内容
+> 
+> 阅读，并参考代码实现了用户态的简易开发环境的配置[https://github.com/jackyliu16/MyRustOs-baseOnrCore-Tutorial-]
