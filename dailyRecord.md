@@ -160,3 +160,15 @@ fn main() {
 
 > 完成了Lab2 实验的理解，并重写 sys_get_time 和 sys_task_info 部分，预计明天可以完成Lab2
 > 
+
+### day 16 - 2022/7/20
+
+> 完成了lab2 的实验
+> 
+> 实验中主要出现以及反映出来的问题，是我对于SV39的页表关系掌握与sv39的PTE结构的掌握不足，具体具体呈现在
+> 
+> 1. 具体体现在PTE的倒数第四位U代表着该PET能否在User mode中被用户访问到
+> 2. 以及对于`MemorySet` and `MapArea` 还有 `PageTable`的相关关系的掌握不足上
+
+
+
