@@ -170,5 +170,7 @@ fn main() {
 > 1. 具体体现在PTE的倒数第四位U代表着该PET能否在User mode中被用户访问到
 > 2. 以及对于`MemorySet` and `MapArea` 还有 `PageTable`的相关关系的掌握不足上
 
+### day 17+18 - 2022/7/{22/23}
 
+> 完成了lab3-第五章实验的学习，同时完成了 `sys_spawn` 系统调用的实验
 
